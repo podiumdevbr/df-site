@@ -25,6 +25,7 @@ capacidade de traduzir requisitos de privacidade em práticas aplicáveis
 Este repositório será a referência central para decisões de produto,
 identidade visual, arquitetura, conteúdo, segurança e evolução técnica.
 
+
 ### Objetivos
 
 -   Apresentar a DataFacil Compliance e seu posicionamento.
@@ -45,6 +46,7 @@ identidade visual, arquitetura, conteúdo, segurança e evolução técnica.
 -   Mantenedores e proprietários de escolas particulares.
 -   Diretores e gestores escolares.
 -   Coordenadores administrativos e pedagógicos.
+-   Secretários escolares.
 -   Profissionais de tecnologia, jurídico, compliance e proteção de
     dados.
 -   Responsáveis por processos de matrícula, atendimento, comunicação e
